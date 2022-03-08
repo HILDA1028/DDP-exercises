@@ -37,6 +37,7 @@ main img{
 }
 
 main h2{
+	color: rgb(72, 61, 139);
 	font-size: 30px;
 	margin: 40px 0 10px;
 }
@@ -76,6 +77,6 @@ footer a{
 }
 
 footer a:hover{
-	background-color: white;
-	color: black;
+	background-color: aliceblue;
+	color: rgb(72, 61, 139);
 }
