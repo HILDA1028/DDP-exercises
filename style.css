@@ -36,6 +36,10 @@ main img{
 	max-width: 100%;
 }
 
+main video {
+	max-width: 100%;
+}
+
 main h2{
 	color: rgb(72, 61, 139);
 	font-size: 30px;
