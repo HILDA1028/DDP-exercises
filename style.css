@@ -1,0 +1,81 @@
+body {
+	margin: 0;
+	font-family: 'League Spartan', sans-serif;
+	font-size: 20px;
+	line-height: 30px;
+}
+
+/*Header section*/
+
+header{
+	background-color: black;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+header h1{
+	color:  white;
+	font-size: 50px;
+}
+
+header img{
+	border-radius: 170px;
+	width: 300px;
+	border: 20px solid white;
+}
+
+/*Main section*/
+main{
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 0 20px;
+}
+
+main img{
+	max-width: 100%;
+}
+
+main h2{
+	font-size: 30px;
+	margin: 40px 0 10px;
+}
+
+main a{
+	color: black;
+}
+
+main a:hover{
+	background-color: black;
+	color: white;
+}
+
+p.caption{
+	margin-top: 0;
+	color:  grey;
+	font-style: italic;
+	font-size: 20px;
+}
+
+/*Footer section*/
+
+footer{
+	background-color: black;
+	text-align: center;
+	padding: 50px;
+}
+
+footer p{
+	margin: 0;
+	color:  white;
+	font-size: 20px;
+}
+
+footer a{
+	color: white;
+}
+
+footer a:hover{
+	background-color: white;
+	color: black;
+}
