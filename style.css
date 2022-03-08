@@ -15,14 +15,14 @@ header{
 }
 
 header h1{
-	color:  rgb(240, 248, 255);
+	color:  aliceblue;
 	font-size: 50px;
 }
 
 header img{
 	border-radius: 170px;
 	width: 300px;
-	border: 20px rgb(240, 248, 255);
+	border: 20px aliceblue;
 }
 
 /*Main section*/
@@ -46,8 +46,8 @@ main a{
 }
 
 main a:hover{
-	background-color: black;
-	color: white;
+	background-color: rgb(72, 61, 139);
+	color: aliceblue;
 }
 
 p.caption{
@@ -60,7 +60,7 @@ p.caption{
 /*Footer section*/
 
 footer{
-	background-color: black;
+	background-color: rgb(72, 61, 139);
 	text-align: center;
 	padding: 50px;
 }
