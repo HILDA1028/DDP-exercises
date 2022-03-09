@@ -32,8 +32,8 @@ main{
 	padding: 0 20px;
 }
 
-main img{
-	max-width: 100%;
+main background-color{
+	background-image: url('image/paper.png');
 }
 
 main video {
