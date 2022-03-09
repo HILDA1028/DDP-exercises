@@ -8,7 +8,7 @@ body {
 /*Header section*/
 
 header{
-	background-color: rgb(72, 61, 139);
+	background-image:url('image/background1.jpeg');
 	text-align: center;
 	padding-top: 50px;
 	padding-bottom: 50px;
