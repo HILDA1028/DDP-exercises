@@ -34,7 +34,11 @@ main{
 
 
 main video {
-	max-width: 100%;
+	width: 800px;
+}
+
+main img{
+	width: 800px;
 }
 
 main h2{
