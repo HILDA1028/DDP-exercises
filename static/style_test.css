@@ -63,31 +63,6 @@ p.caption{
 	font-size: 20px;
 }
 
-/*Gallery section*/
-
-div.gallery{
-	width: 800px;
-	margin: 0 auto;
-	padding: 0 20px;
-	border: 1px solid #ccc;
-}
-
-div.gallery h2{
-	color: rgb(72, 61, 139);
-	font-size: 30px;
-	margin: 40px 0 10px;
-}
-
-div.gallery:img{
-	width: 100%;
-	height: auto;
-}
-
-div.desc{
-	padding: 15px;
-	text-align: center;
-}
-
 /*Footer section*/
 
 footer{
