@@ -8,7 +8,7 @@ body {
 /*Header section*/
 
 header{
-	background-image:url('image/header2.png');
+	background-image:url('/static/image/header2.png');
 	text-align: center;
 	padding-top: 50px;
 	padding-bottom: 50px;
@@ -91,7 +91,7 @@ div.desc{
 /*Footer section*/
 
 footer{
-	background-image:url('image/header2.png');
+	background-image:url('/static/image/header2.png');
 	text-align: center;
 	padding: 50px;
 }
