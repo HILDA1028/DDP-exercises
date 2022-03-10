@@ -22,7 +22,7 @@ header h1{
 header img{
 	border-radius: 170px;
 	width: 300px;
-	border: 20px solid aliceblue;
+	border: 15px solid aliceblue;
 }
 
 /*Main section*/
@@ -30,7 +30,6 @@ main{
 	max-width: 800px;
 	margin: 0 auto;
 	padding: 0 20px;
-	background-image: url('image/paper2.jpeg');
 }
 
 
@@ -81,7 +80,7 @@ div.desc{
 /*Footer section*/
 
 footer{
-	background-color: rgb(72, 61, 139);
+	background-image:url('image/header2.png');
 	text-align: center;
 	padding: 50px;
 }
